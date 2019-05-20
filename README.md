@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React allows developers to create large web applications which can change data, without reloading the page. The main purpose of React is to be fast, scalable, and simple. 
+
 - [ ] What does it mean to _think_ in react?
+
+Think about the components and break the page down to components.
 
 - [ ] Describe state.
 
+The data that our components will have access to.
+
 - [ ] Describe props.
+
+Props are properties or states being passed around to give its data to another component.
 
 ## Project Set Up
 
